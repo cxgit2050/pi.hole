@@ -1,22 +1,46 @@
-#### Base Blocking#### https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/ for info on the below
+#Pi-Hole Defaults***************************************
+
+##StevenBlack's list
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+##MalwareDomains
+https://mirror1.malwaredomains.com/files/justdomains
+
+##Cameleon
+http://sysctl.org/cameleon/hosts
+
+##Zeustracker
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+
+##Disconnect.me Tracking
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+
+##Disconnect.me Ads
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+
+##Hosts-file.net
+https://hosts-file.net/ad_servers.txt
+
+
+# Base Blocking 
+## From: https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/, visit dirct for more information.
+#[dbl.oisd.nl]        ____ ____ __ 
+#  __ __ ____ ____   (    (  _ (  )
+# /  (  / ___(    \   ) D () _ / (_/\
+#(  O )(\___ \) D (  (____(____\____/
+# \__(__(____(____/  Domain blocklist
+
 https://dbl.oisd.nl/
 
-##### Additional Block Sites#######
-#From https://firebog.net/
+
+# Additional Block Sites
+# From https://firebog.net/
 
 ##### Malicious Sites ######
 https://v.firebog.net/hosts/lists.php?type=tick
 
 #From https://isc.sans.edu/suspicious_domains.html 
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
-
-#Pi-Hole Defaults
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://mirror1.malwaredomains.com/files/justdomains
-http://sysctl.org/cameleon/hosts
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://hosts-file.net/ad_servers.txt
 
 
 
