@@ -43,7 +43,7 @@ https://v.firebog.net/hosts/lists.php?type=tick
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 
 #From: https://someonewhocares.org/hosts/
-https://someonewhocares.org/hosts/
+#https://someonewhocares.org/hosts/
 
 
 
