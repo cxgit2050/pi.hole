@@ -42,7 +42,8 @@ https://v.firebog.net/hosts/lists.php?type=tick
 #From https://isc.sans.edu/suspicious_domains.html 
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 
-
+#From: https://someonewhocares.org/hosts/
+https://someonewhocares.org/hosts/
 
 
 
