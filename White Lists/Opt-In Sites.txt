@@ -130,3 +130,6 @@ amzn.com
 fpdownload.adobe.com
 entitlement.auth.adobe.com
 livepassdl.conviva.com
+
+#Discovered to be blocked
+analytics.twitter.com 
