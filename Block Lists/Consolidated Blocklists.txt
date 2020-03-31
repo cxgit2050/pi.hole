@@ -8,3 +8,4 @@ https://hosts-file.net/ad_servers.txt
 https://dbl.oisd.nl/
 https://v.firebog.net/hosts/lists.php?type=tick
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
+https://raw.githubusercontent.com/cxgit2050/pi.hole/master/Block%20Lists/Custom_Block.txt
