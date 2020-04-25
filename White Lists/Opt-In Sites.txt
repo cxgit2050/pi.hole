@@ -133,3 +133,4 @@ livepassdl.conviva.com
 
 #Discovered to be blocked
 analytics.twitter.com 
+cl.exct.net
