@@ -1,1 +1,7 @@
 graph.facebook.com
+imp.control.kochava.com
+sdk.iad-01.braze.com
+sb.scorecardresearch.com
+securepubads.g.doubleclick.net
+connect.facebook.net
+nym1-ib.adnxs.com
