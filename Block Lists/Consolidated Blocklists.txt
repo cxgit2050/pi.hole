@@ -9,13 +9,4 @@ https://dbl.oisd.nl/
 https://v.firebog.net/hosts/lists.php?type=tick
 https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 https://raw.githubusercontent.com/cxgit2050/pi.hole/master/Block%20Lists/Custom_Block.txt
-
-
-# Added 12/19/2024
-0.0.0.0 graph.facebook.com
-0.0.0.0 imp.control.kochava.com
-0.0.0.0 sdk.iad-01.braze.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 connect.facebook.net
-0.0.0.0 nym1-ib.adnxs.com
+https://big.oisd.nl
